@@ -1,0 +1,11 @@
+Readme 
+
+POST 
+
+http://localhost:8000/api/v1/tasks/create -- to create task
+http://localhost:8000/api/v1/users/create-user  -- signup
+http://localhost:8000/api/v1/users/create-session -- signIn
+
+GET
+
+http://localhost:8000/api/v1/tasks -- to get task
